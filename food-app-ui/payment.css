@@ -1,0 +1,64 @@
+.pay-card{
+	width: 49%;
+	height: 5vh;
+	background: white;
+	font-size: 3vh;
+	border-width: 0px;
+	border-color: white;
+}
+#card-no{
+	width: 90%;
+}
+#cc{
+	background: #f37474;
+	border-radius: 10px 0px 0px 0px;
+}
+#dc{
+	border-radius: 0px 10px 0px 0px;
+}
+.card-e{
+	width: 25%;
+	float: left;
+	font-size: 3vh;
+}
+.pay{
+	height: 5vh;
+	font-size: 3vh;
+	border-radius: 10px;
+	margin: 1vh;
+	padding: 1vh;
+	background: white;
+}
+#box{
+	padding: 1vh;
+	margin: 1vh;
+	width: 93%;
+	border-width: 0px;
+	height: 50vh;
+	align-content: center;
+	align-self: center;
+	text-align: center;
+	background: #f37474;
+	border-radius: 25px;
+}
+input{
+	margin: 1vh;
+	padding: 1vh;
+	height: 5vh;
+	font-size: 3vh;
+	border: solid;
+	background: white;
+	color: black;
+	border-width: 2px;
+	border-radius: 10px;
+}
+body{
+	text-align: center;
+	align-content: center;
+}
+p{
+	margin: 1vh;
+	padding: 1vh;
+	font-size: 3vh;
+	float: left;
+}

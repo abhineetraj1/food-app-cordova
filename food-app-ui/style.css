@@ -1,0 +1,105 @@
+.bill-itm-pro-btn{
+	width: 40%;
+	padding: 1vh;
+	background: black;
+	margin: 1vh;
+	font-size: 3vh;
+	color: white;
+	border: solid;
+	border-radius: 10px;
+}
+#bill{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	position: fixed;
+	top: 40vh;
+	height: 60vh;
+	background: white;
+	width: 98%;
+	border-radius: 20px 20px 0px 0px;
+	border: solid;
+}
+.bill-container{
+	height: 7vh;
+	padding: 2vh;
+	width: 100%;
+}
+.bill-itm-img{
+	float: left;
+	height: 5vh;
+	padding: 1vh;
+}
+.bill-itm-name{
+	height: 5vh;
+	font-size: 3vh;
+	float: left;
+}
+.bill-itm-pr{
+	float: right;
+	height: 5vh;
+	font-size: 3vh;
+	width: 30%;
+}
+
+.ord{
+	padding: 1vh;
+	width: 87%;
+	margin: 1vh;
+	border-radius: 10px;
+	background: white;
+	height: 5vh;
+	font-size: 3vh;
+	color: black;
+}
+nav{
+	position: fixed;
+	top: 93vh;
+	height: 7vh;
+	width: 100%;
+	background: #f37474;
+}
+body{
+	margin: 0vh;
+	padding: 0vh;
+	text-align: center;
+	align-content: center;
+}
+.con{
+	display: block;
+	display: inline-block;
+	text-align: center;
+	align-content: center;
+	width: 38%;
+	background: #f37474;
+	border-radius: 10px;
+	padding: 1vh;
+	margin: 1vh;
+}
+.con-title{
+	font-size: 3vh;
+	color: black;
+	margin: 0vh;
+	padding: 0vh;
+}
+.con-price{
+	background: white;
+	border-radius: 10px;
+	border-width: 0px;
+	margin: 0vh;
+	padding: 0vh;
+	color:black;
+}
+.con-img{
+	padding: 1vh;
+	margin: 1vh;
+	border-width: 1vh;
+	width: 50%;
+}
+.con-btn{
+	border-radius: 5px;
+	border: solid;
+	height: 5vh;
+	font-family: 3vh;
+	background: white;
+	width: 100%;
+}

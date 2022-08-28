@@ -1,0 +1,14 @@
+<platform name="android">    
+    <icon src="images/ic.png" density="mdpi" />
+    <icon src="images/ic.png" density="ldpi" />
+    <icon src="images/ic.png" density="hdpi" />
+    <icon src="images/ic.png" density="xhdpi" />
+    <icon src="images/ic.png" density="xxhdpi" />
+</platform>
+<platform name="ios">    
+    <icon src="images/ic.png" density="mdpi" />
+    <icon src="images/ic.png" density="ldpi" />
+    <icon src="images/ic.png" density="hdpi" />
+    <icon src="images/ic.png" density="xhdpi" />
+    <icon src="images/ic.png" density="xxhdpi" />
+</platform>

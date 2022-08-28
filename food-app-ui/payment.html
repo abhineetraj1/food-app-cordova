@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<script type="text/javascript" src="payment.js"></script>
+	<link rel="stylesheet" type="text/css" href="payment.css">
+</head>
+<body>
+
+<div id="box">
+	<button class="pay-card" id="cc" onclick="clr1()">Credit card</button>
+	<button class="pay-card" id="dc" onclick="clr2()">Debit card</button>
+	<p>Amount: Rs<script type="text/javascript">document.write(window.location.href.split("#")[1])</script></p>
+	<input id="card-no" type="number" placeholder="Enter card number">
+	<br>
+	<input class="card-e" style="width:50%;" type="number" placeholder="Expiry date">
+	<input class="card-e" type="text" style="float: right;" placeholder="CVV">
+	<br><br><br><br>
+	<a href="main.html"><button class="pay">Cancel order</button></a>
+	<button class="pay" onclick="alert('Payment gateway is not added!!')">Pay</button>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+img{
+	position: absolute;
+	top: 30vh;
+	align-self: center;
+	width: 40%;
+	left: 30%;
+}
+
+p{
+	position: absolute;
+	text-align: left;
+	top: 70vh;
+	font-size: 3vh;
+	color: black;
+}
