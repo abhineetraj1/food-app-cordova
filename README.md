@@ -62,7 +62,7 @@ cordova build [platform]
 ## Execution
 
 ### For andriod
-1) Download the andriod app from -> [link](https://github.com/abhineetraj1/food-app-codova/blob/main/Food_app_1_1.0.apk)
+1) Download the andriod app from -> [link](https://github.com/abhineetraj1/food-app-cordova/raw/main/Food%20app_1_1.0.apk)
 2) Install the downloaded apk.
 
 ## Languages used:-
